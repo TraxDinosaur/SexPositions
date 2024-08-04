@@ -1,0 +1,3 @@
+class Config:
+    TELEGRAM_TOKEN = "TELEGRAM_TOKEN"
+    TELEGRAM_CHAT_ID = "CHAT_ID"

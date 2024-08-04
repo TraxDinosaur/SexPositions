@@ -1,0 +1,6 @@
+.idea/
+test.py
+__pycache__/
+positions/__pycache__/
+
+
